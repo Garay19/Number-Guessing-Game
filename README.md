@@ -1,4 +1,4 @@
-# 🎯 Number Guessing Game (CLI Version)
+# Number Guessing Game (CLI Version)
 
 A simple Command Line Interface (CLI) number guessing game built with Python.
 
@@ -6,7 +6,7 @@ The computer randomly selects a number between 1 and 100, and the player must gu
 
 ---
 
-## 📌 Features
+## Features
 
 - Random number generation between 1 and 100
 - Three difficulty levels:
@@ -21,7 +21,7 @@ The computer randomly selects a number between 1 and 100, and the player must gu
 
 ---
 
-## 🕹️ How the Game Works
+## How the Game Works
 
 1. The game starts with a welcome message and instructions.
 2. The player selects a difficulty level.
@@ -33,18 +33,7 @@ The computer randomly selects a number between 1 and 100, and the player must gu
    - The player runs out of chances (Lose ❌)
 7. The player can choose to play again.
 
----
-
-## 🛠️ Technologies Used
-
-- Python 3
-- `random` module (for number generation)
-- `os` module (for clearing terminal)
-- `time` module (for delay effects)
-
----
-
-## ▶️ How to Run the Game
+## How to Run the Game
 
 1. Make sure Python 3 is installed.
 2. Download or clone this project.
@@ -53,3 +42,5 @@ The computer randomly selects a number between 1 and 100, and the player must gu
 
 ```bash
 python filename.py
+
+https://roadmap.sh/projects/number-guessing-game
